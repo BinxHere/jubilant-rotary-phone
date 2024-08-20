@@ -26,5 +26,9 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "DFIntConnectionMTUSize": "MTU_HERE",
-  
+  "FFlagReconnectDisabled": "True",
+  "FStringReconnectDisabledReason": "meow :3",
+  "FStringWhitelistVerifiedUserId": "393766911",
+  "FIntRobloxGuiBlurIntensity": "0",
+  "FIntCameraMaxZoomDistance": "9999"
 }
